@@ -1,7 +1,6 @@
 # Pranjal's Certificates and Resume
 ## Certificates 🏆
-- PCAP: Programming Essentials in Python (Cisco Networking Academy)
-       My-certificates/PRANJALRAY-Programming Esse-certificate.pdf
+- [PCAP: Programming Essentials in Python (Cisco Networking Academy)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/PRANJALRAY-Programming%20Esse-certificate.pdf)
 
 - Certificate 2
 
