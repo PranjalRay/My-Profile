@@ -8,13 +8,13 @@
 
 - [Supervised Machine Learning Regression and Classification (Coursera)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/Supervised%20Machine%20Learning%20Regression%20and%20Classification-%20Coursera.pdf)
   
-- [java basic certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/java_basic%20certificate-%20Hackkerank.pdf)
+- [Java basic certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/java_basic%20certificate-%20Hackkerank.pdf)
 
-- [css certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/css%20certificate-%20Hackkerank.pdf)
+- [CSS certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/css%20certificate-%20Hackkerank.pdf)
   
-- [problem solving basic certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/problem_solving_basic%20certificate-%20Hackkerank.pdf)
+- [Problem solving basic certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/problem_solving_basic%20certificate-%20Hackkerank.pdf)
 
-- [python basic certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/python_basic%20certificate-%20Hackkerank.pdf)
+- [Python basic certificate (Hackkerank)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/python_basic%20certificate-%20Hackkerank.pdf)
 
 - [AWS certificate (NSIC)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/AWS-%20NSIC%20Certificate.pdf)
 
@@ -43,6 +43,8 @@ Connect with me on social media platforms:
 
 - LinkedIn : [Linkedln](https://www.linkedin.com/in/pranjal-ray/)
 - Twitter : [Twitter](https://twitter.com/Pranjal71972881)
-- E-Mail : [Main](roypranjal2015@gmail.com), [Personal](roypranjal2021@gmail.com), [College](21951A6695@iare.ac.in)
+- E-Mail : [Main](roypranjal2015@gmail.com)
+           [Personal](roypranjal2021@gmail.com)
+           [College](21951A6695@iare.ac.in)
   
 Feel free to reach out for collaborations, discussions, or just to say hello! 🌐✨
