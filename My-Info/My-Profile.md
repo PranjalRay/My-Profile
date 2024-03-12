@@ -29,6 +29,13 @@ Check out some of my latest projects, where I apply my knowledge and contribute 
 
 - Agrobot : https://github.com/PranjalRay/Agrobot
 
+# 🌐 Email
+- Main mail: roypranjal2015@gmail.com
+
+- Personal mail: roypranjal2021@gmail.com
+
+- College mail: 21951a6695@iare.ac.in
+
 Feel free to explore and provide feedback. Let's collaborate and make a positive impact together! 🌐✨
 
 Connect with me on LinkedIn and Twitter. Let's learn and grow together! 🚀
