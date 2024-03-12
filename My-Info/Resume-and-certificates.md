@@ -43,8 +43,8 @@ Connect with me on social media platforms:
 
 - LinkedIn : [Linkedln](https://www.linkedin.com/in/pranjal-ray/)
 - Twitter : [Twitter](https://twitter.com/Pranjal71972881)
-- E-Mail : Main-[roypranjal2015@gmail.com]
-- Personal-[roypranjal2021@gmail.com]
-- College-[21951A6695@iare.ac.in]
+- Main Mail: [roypranjal2015@gmail.com]
+- Personal Mail: [roypranjal2021@gmail.com]
+- College Mail: [21951A6695@iare.ac.in]
   
 Feel free to reach out for collaborations, discussions, or just to say hello! 🌐✨
