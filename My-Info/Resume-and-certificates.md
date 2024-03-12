@@ -31,6 +31,13 @@ Check out my detailed resume for a comprehensive overview of my academic and pro
 
 [Resume]()
 
+## Programming Platform Links 🔗
+View my coding performance in various programming platforms:
+
+- Leetcode : [LeetCode](https://leetcode.com/Pranjal_Ray/)
+- Hackerrank : [Hackerrank]([https://twitter.com/Pranjal71972881](https://www.hackerrank.com/profile/21951a6695_RAY))
+- GitHub : [GitHub](https://github.com/PranjalRay)
+  
 ## Social Links 🔗
 Connect with me on social media platforms:
 
