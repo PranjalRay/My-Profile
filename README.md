@@ -7,8 +7,6 @@
 > For more information about my badges and certifications: [Certificates](My-Info/Resume-and-certificates.md)
 >
 > For more informmation on my skills: [Skills](My-Info/My-skills.md)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pranjal-ray" data-version="v1">Pranjal Ray</div>
               
               
 
