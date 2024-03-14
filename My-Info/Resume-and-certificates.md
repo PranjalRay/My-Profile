@@ -1,4 +1,10 @@
-# Pranjal's Certificates and Resume
+# Pranjal's Badges,Certificates and Resume
+
+## Badges :1st_place_medal:
+- [AWS Academy Graduate - AWS Academy Cloud Architecting Badge](https://www.credly.com/badges/3e4a9b81-4bf8-446f-941b-7898cb4657b5/linked_in?t=saaoxg)
+
+- [AWS Academy Graduate - AWS Academy Cloud Foundations Badge](https://www.credly.com/badges/10b2e14c-ff84-467c-ad91-3a802b67e185/linked_in?t=saam93)
+
 ## Certificates 🏆
 - [PCAP: Programming Essentials in Python (Cisco Networking Academy)](https://github.com/PranjalRay/My-Profile/blob/main/My-certificates/PRANJALRAY-Programming%20Esse-certificate.pdf)
 
