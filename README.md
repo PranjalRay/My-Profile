@@ -4,7 +4,9 @@
 > [!IMPORTANT]
 > For more information about me:  [Profile](My-Info/My-Profile.md)
 > 
-> For more information about my certifications: [Certificates](My-Info/Resume-and-certificates.md)
+> For more information about my badges and certifications: [Certificates](My-Info/Resume-and-certificates.md)
+>
+> For more informmation on my skills: [Skills]()
 
 
 
