@@ -8,7 +8,8 @@
 >
 > For more informmation on my skills: [Skills](My-Info/My-skills.md)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pranjal-ray" data-version="v1">Pranjal Ray</div>
+              
               
 
 
