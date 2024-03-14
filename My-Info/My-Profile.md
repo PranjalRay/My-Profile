@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi there! I'm Pranjal Ray, a recent graduate with a background in web development, DevOps, and software engineering.
 I bring fresh perspectives from studying AI and ML in IARE, and I'm excited to contribute to open projects.
 
-** ✨To know more about my skills and certifications, [Click Here]()✨ **
+__ ✨To know more about my skills and certifications, [Click Here]() ✨ __
 
 # 🔧 Skills
 - **Web Development**: HTML, CSS, JavaScript, React, Node, Express
